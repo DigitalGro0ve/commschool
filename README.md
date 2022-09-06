@@ -1,7 +1,3 @@
 # commschool
 
 # sushi
-
-# burger
-
-# khinkali
